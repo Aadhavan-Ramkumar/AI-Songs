@@ -13,5 +13,6 @@ canvas {
 	background-color: gray;
 	border: 5px solid lightgray;
 	border-radius: 20px;
+	margin-top: 150px;
 	box-shadow: 5px 5px 5px #73cfd8
 }
